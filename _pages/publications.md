@@ -68,4 +68,13 @@ APS Global Physics Summit 2026, Denver, CO, Mar 2026.
 <a href="https://meetings-archive.aps.org/smt/2025/mar-g41/5/" target="_blank">APS Global Physics Summit 2025</a>, Anaheim, CA, Mar 2025.
 
 **[4]** Graphene layer dependence during van der Waals epitaxy of GdAuGe on graphene SiC *(oral)*  
-<a href="https://nambe2024.avs.org/" target="_blank">The 38th Nort
+<a href="https://nambe2024.avs.org/" target="_blank">The 38th North American Conference on Molecular Beam Epitaxy (NAMBE)</a>, Boston, MA, Jul 2024.
+
+**[3]** Impact of graphene-substrate bonds on remote and van der Waals epitaxy of GdAuGe on graphene/SiC *(oral)*  
+APS March Meeting 2024, Minneapolis, MN, Mar 2024.
+
+**[2]** Controlling the Balance between Remote, Pinhole, and van der Waals Epitaxy of Heusler Films on Graphene/Sapphire *(oral)*  
+<a href="https://nambe2023.avs.org/" target="_blank">The 37th North American Conference on Molecular Beam Epitaxy (NAMBE)</a>, Madison, WI, Sep 2023.
+
+**[1]** Impact of interface layer on charge trapping in Si:HfO2 based FeFET *(oral)*  
+<a href="https://www.iirw.org/home" target="_blank">The IEEE International Integrated Reliability Workshop (IIRW)</a>, South Lake Tahoe, CA, Oct 2020.
