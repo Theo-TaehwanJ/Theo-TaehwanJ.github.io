@@ -38,11 +38,11 @@ Taehwan (Theo) Jung is a materials scientist specializing in the epitaxial synth
 
 - **Student Research Grants Competition Travel Award**, University of Wisconsin–Madison (Jul. 2025)
 - **APS GMAG Student Travel Award**, APS Global Physics Summit 2025, Anaheim CA (Mar. 2025)
-- **[Student Paper Award](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9447793&tag=1)** (One of Five Selected), IEEE International Integrated Reliability Workshop (IIRW), South Lake Tahoe CA (Oct. 2020)
+- **[Student Paper Award](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9447793&tag=1){:target="_blank"}** (One of Five Selected), IEEE International Integrated Reliability Workshop (IIRW), South Lake Tahoe CA (Oct. 2020)
 
 ## News
 
-- [Remote Epitaxial Frustration Demonstrated in GdAuGe Films with Disordered Interlayers and Rotated Relationships](https://quantumzeitgeist.com/remote-epitaxial-frustration-demonstrated-gdauge-films-disordered-interlayers/) — *Quantum Zeitgeist* (Dec. 2025)
+- **<u>[Remote Epitaxial Frustration Demonstrated in GdAuGe Films with Disordered Interlayers and Rotated Relationships](https://quantumzeitgeist.com/remote-epitaxial-frustration-demonstrated-gdauge-films-disordered-interlayers/){:target="_blank"}</u>** — *Quantum Zeitgeist* (Dec. 2025)
 
 ## Journal Reviewer
 
