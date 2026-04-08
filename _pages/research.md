@@ -34,10 +34,13 @@ Du. D, **T. Jung**, et al., ***Nano Letters*** 22(21), 8647–8653 (2022) — <a
 ## Ferroelectric HfO₂-based Device
 
 - Device reliability (BTI, wake-up effect...)
+
+![FeFET Vt](/images/research_fefet2.png)
+
 - The impact of charge trapping and depolarization
 
 ![FeFET Energy Band](/images/research_fefet1.png)
-![FeFET Vt](/images/research_fefet2.png)
+
 
 **T. Jung**, et al., ***IEEE Transactions on Device and Materials Reliability*** 21(2), 176–182 (2021) — <a href="https://ieeexplore.ieee.org/abstract/document/9424711" target="_blank">Link</a>
 
