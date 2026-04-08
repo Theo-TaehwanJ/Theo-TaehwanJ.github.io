@@ -36,7 +36,7 @@ Taehwan (Theo) Jung is a materials scientist specializing in the epitaxial synth
 
 ## Honors & Awards
 
-- **Student Research Grants Competition Travel Award**, University of Wisconsin–Madison (Jul. 2025)
+- <a href="https://grad.wisc.edu/funding/grants-competition/" target="_blank"><b>Student Research Grants Competition Travel Award</b></a>, University of Wisconsin–Madison (Jul. 2025)
 - <a href="https://engage.aps.org/gmag/honors/prizes-awards/student-travel-award" target="_blank"><b>APS GMAG Student Travel Award</b></a>, APS Global Physics Summit 2025, Anaheim CA (Mar. 2025)
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9447793&tag=1" target="_blank"><b>Student Paper Award</b></a> (One of Five Selected), IEEE International Integrated Reliability Workshop (IIRW), South Lake Tahoe CA (Oct. 2020)
 
