@@ -55,26 +55,26 @@ author_profile: true
 
 ## Conference Presentations
 
-**[8]** Remote epitaxial frustration *(oral)*  
-The 24th International Conference on Molecular Beam Epitaxy (ICMBE 2026), Ann Arbor, MI, Jul 2026. *(upcoming)*
+**[8]** <b><u>Remote epitaxial frustration</u></b> <b style="color:#e74c3c;">(oral)</b>  
+*The 24th International Conference on Molecular Beam Epitaxy (ICMBE 2026), Ann Arbor, MI, Jul 2026.* *(upcoming)*
 
-**[7]** Interfacial Structure and Electronic Properties of FeSe/GaAs (001) Heterostructures grown by molecular beam epitaxy *(oral)*  
-APS Global Physics Summit 2026, Denver, CO, Mar 2026.
+**[7]** <b><u>Interfacial Structure and Electronic Properties of FeSe/GaAs (001) Heterostructures grown by molecular beam epitaxy</u></b> <b style="color:#e74c3c;">(oral)</b>  
+*APS Global Physics Summit 2026, Denver, CO, Mar 2026.*
 
-**[6]** Impact of Graphene-induced Surface Reconstructions on the Mechanisms for Remote and van der Waals Epitaxy of GdAuGe on Graphene/SiC *(oral)*  
-<a href="https://nambe2025.avs.org/" target="_blank">The 39th North American Conference on Molecular Beam Epitaxy (NAMBE)</a>, Albuquerque, NM, Aug 2025.
+**[6]** <a href="https://nambe2025.avs.org/" target="_blank"><b><u>Impact of Graphene-induced Surface Reconstructions on the Mechanisms for Remote and van der Waals Epitaxy of GdAuGe on Graphene/SiC</u></b></a> <b style="color:#e74c3c;">(oral)</b>  
+*The 39th North American Conference on Molecular Beam Epitaxy (NAMBE), Albuquerque, NM, Aug 2025.*
 
-**[5]** Strain and Interface-Enhanced Superconductivity in FeSe/SrTiO3 bilayer membranes grown by molecular beam epitaxy *(oral)*  
-<a href="https://meetings-archive.aps.org/smt/2025/mar-g41/5/" target="_blank">APS Global Physics Summit 2025</a>, Anaheim, CA, Mar 2025.
+**[5]** <a href="https://meetings-archive.aps.org/smt/2025/mar-g41/5/" target="_blank"><b><u>Strain and Interface-Enhanced Superconductivity in FeSe/SrTiO3 bilayer membranes grown by molecular beam epitaxy</u></b></a> <b style="color:#e74c3c;">(oral)</b>  
+*APS Global Physics Summit 2025, Anaheim, CA, Mar 2025.*
 
-**[4]** Graphene layer dependence during van der Waals epitaxy of GdAuGe on graphene SiC *(oral)*  
-<a href="https://nambe2024.avs.org/" target="_blank">The 38th North American Conference on Molecular Beam Epitaxy (NAMBE)</a>, Boston, MA, Jul 2024.
+**[4]** <a href="https://nambe2024.avs.org/" target="_blank"><b><u>Graphene layer dependence during van der Waals epitaxy of GdAuGe on graphene SiC</u></b></a> <b style="color:#e74c3c;">(oral)</b>  
+*The 38th North American Conference on Molecular Beam Epitaxy (NAMBE), Boston, MA, Jul 2024.*
 
-**[3]** Impact of graphene-substrate bonds on remote and van der Waals epitaxy of GdAuGe on graphene/SiC *(oral)*  
-APS March Meeting 2024, Minneapolis, MN, Mar 2024.
+**[3]** <b><u>Impact of graphene-substrate bonds on remote and van der Waals epitaxy of GdAuGe on graphene/SiC</u></b> <b style="color:#e74c3c;">(oral)</b>  
+*APS March Meeting 2024, Minneapolis, MN, Mar 2024.*
 
-**[2]** Controlling the Balance between Remote, Pinhole, and van der Waals Epitaxy of Heusler Films on Graphene/Sapphire *(oral)*  
-<a href="https://nambe2023.avs.org/" target="_blank">The 37th North American Conference on Molecular Beam Epitaxy (NAMBE)</a>, Madison, WI, Sep 2023.
+**[2]** <a href="https://nambe2023.avs.org/" target="_blank"><b><u>Controlling the Balance between Remote, Pinhole, and van der Waals Epitaxy of Heusler Films on Graphene/Sapphire</u></b></a> <b style="color:#e74c3c;">(oral)</b>  
+*The 37th North American Conference on Molecular Beam Epitaxy (NAMBE), Madison, WI, Sep 2023.*
 
-**[1]** Impact of interface layer on charge trapping in Si:HfO2 based FeFET *(oral)*  
-<a href="https://www.iirw.org/home" target="_blank">The IEEE International Integrated Reliability Workshop (IIRW)</a>, South Lake Tahoe, CA, Oct 2020.
+**[1]** <a href="https://www.iirw.org/home" target="_blank"><b><u>Impact of interface layer on charge trapping in Si:HfO2 based FeFET</u></b></a> <b style="color:#e74c3c;">(oral)</b>  
+*The IEEE International Integrated Reliability Workshop (IIRW), South Lake Tahoe, CA, Oct 2020.*
