@@ -38,9 +38,9 @@ Du. D, **T. Jung**, et al., ***Nano Letters*** 22(21), 8647–8653 (2022) — <a
 - Device reliability (BTI, wake-up effect...)
 - The impact of charge trapping and depolarization
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="/images/research_fefet1.png" style="width: 50%;">
-  <img src="/images/research_fefet2.png" style="width: 28%;">
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+  <img src="/images/research_fefet2.png" style="width: 35%;">
+  <img src="/images/research_fefet1.png" style="width: 55%;">
 </div>
 
 **T. Jung**, et al., ***IEEE Transactions on Device and Materials Reliability*** 21(2), 176–182 (2021) — <a href="https://ieeexplore.ieee.org/abstract/document/9424711" target="_blank">Link</a>
