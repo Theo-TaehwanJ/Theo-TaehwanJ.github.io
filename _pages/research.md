@@ -21,7 +21,9 @@ author_profile: true
 - Freestanding nanomembranes
 - 2D materials
 
-![Remote Epitaxy](/images/research_epitaxy.png)
+<div style="margin: 20px 0;">
+  <img src="/images/research_epitaxy.png" style="width: 100%;">
+</div>
 
 **T. Jung**, et al., ***arXiv*** (2025) — <a href="https://arxiv.org/abs/2512.06986" target="_blank">Link</a>
 
@@ -34,13 +36,12 @@ Du. D, **T. Jung**, et al., ***Nano Letters*** 22(21), 8647–8653 (2022) — <a
 ## Ferroelectric HfO₂-based Device
 
 - Device reliability (BTI, wake-up effect...)
-
-![FeFET Vt](/images/research_fefet2.png)
-
 - The impact of charge trapping and depolarization
 
-![FeFET Energy Band](/images/research_fefet1.png)
-
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
+  <img src="/images/research_fefet1.png" style="width: 50%;">
+  <img src="/images/research_fefet2.png" style="width: 28%;">
+</div>
 
 **T. Jung**, et al., ***IEEE Transactions on Device and Materials Reliability*** 21(2), 176–182 (2021) — <a href="https://ieeexplore.ieee.org/abstract/document/9424711" target="_blank">Link</a>
 
