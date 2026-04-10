@@ -26,7 +26,7 @@ Taehwan (Theo) Jung is a materials scientist specializing in the epitaxial synth
   Research Assistant, Device and Circuit Laboratory
 
 - **Imec**, Belgium (Oct. 2019 – Sep. 2020)  
-  Research Assistant & Research Intern, Advanced Reliability Robustness and Testing Department
+  Research Assistant Intern, Advanced Reliability Robustness and Testing Department
 
 - **Applied Materials Korea**, Korea (Jul. 2018 – Nov. 2018)  
   Process Diagnostics and Control Hardware Engineer
