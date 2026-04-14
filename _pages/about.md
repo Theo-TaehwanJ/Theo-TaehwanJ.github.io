@@ -42,7 +42,7 @@ Taehwan (Theo) Jung is a materials scientist specializing in the epitaxial synth
 
 ## News
 
-- <a href="https://quantumzeitgeist.com/remote-epitaxial-frustration-demonstrated-gdauge-films-disordered-interlayers/" target="_blank"><b><u>Remote Epitaxial Frustration Demonstrated in GdAuGe Films with Disordered Interlayers and Rotated Relationships</u></b></a> — *Quantum Zeitgeist* (Dec. 2025)
+- <a href="https://quantumzeitgeist.com/remote-epitaxial-frustration-demonstrated-gdauge-films-disordered-interlayers/" target="_blank"><b>Remote Epitaxial Frustration Demonstrated in GdAuGe Films with Disordered Interlayers and Rotated Relationships</b></a> — *Quantum Zeitgeist* (Dec. 2025)
 
 ## Journal Reviewer
 
