@@ -7,5 +7,5 @@ main:
     url: /publications/
   - title: "CV"
     url: /cv/
-      - title: "Quantum Notes"
-    url: https://theo-taehwanj.github.io/quantum-notes/
+  - title: "Quantum Notes"
+    url: "https://theo-taehwanj.github.io/quantum-notes/"
